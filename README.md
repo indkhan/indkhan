@@ -1,9 +1,9 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm Usman Khan</h1>
-<h3 align="center">A passionate AI / ML / Chatbot developer from India</h3>
+<h3 align="center">A passionate AI / ML / Web developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 💬 Ask me about **TensorFlow,Langchain,Python, Transformers**
+- 💬 Ask me about **TensorFlow, Langchain , CrewAI, Python, Transformers, Next.js**
 
 - <a href="https://indkhan.pythonanywhere.com/">Portfolio</a>
 
@@ -17,7 +17,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=indkhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=indkhan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=indkhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=indkhan&icon=0&color=0)](https://visitcount.itsvg.in)
