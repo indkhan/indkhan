@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **TensorFlow, Langchain, CrewAI, Python, Transformers, Next.js, Langchain, Django, Typescript **
 
-- <a href="https://indkhan.pythonanywhere.com/">Portfolio</a>
+- <a href="https://portfolio-ten-sooty-60.vercel.app/">Portfolio</a>
 
 - 📫 How to reach me **mgsukhan@gmail.com**
 
