@@ -2,7 +2,7 @@
 
 **Software Engineer · Full-Stack & Applied AI**
 
-I'm a **Computer Science student at Saarland University** and a **Software & AI Engineer (Working Student) at Cyvalent**. I build software end to end—from backend systems and product interfaces to practical AI workflows—with an emphasis on reliable behavior and user control.
+I'm a **Computer Science student at Saarland University** and a **Software & AI Engineer (Working Student) at Cyvalent**. I build software end to end from backend systems and product interfaces to practical AI workflows with an emphasis on reliable behavior and user control.
 
 - 📍 Based in Saarbrücken, Germany
 - 🛠 Currently building **[UniPirate](https://github.com/indkhan/unipirate)** and **[Moneo](https://github.com/indkhan/Moneo)**
