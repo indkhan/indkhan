@@ -4,7 +4,7 @@ An interactive Three.js visualization of GitHub contributions and commits author
 
 ## Live dashboard
 Once GitHub Pages is enabled and the workflow completes, visit:
-https://indkhan.github.io/indkhan/
+https://indkhan.github.io/indkhan/activity/
 
 ## What the numbers mean
 - **Contributions** are read from GitHub's contribution calendar through GraphQL.
