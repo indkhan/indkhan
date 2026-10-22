@@ -14,6 +14,7 @@ I'm a **Computer Science student at Saarland University** and a **Software & AI 
 | --- | --- | --- |
 | **[UniPirate](https://github.com/indkhan/unipirate)** | Helps international students navigate German public-university applications with rule-based eligibility checks, course discovery, and planning tools. | [Live app](https://unipirate.vercel.app) |
 | **[Moneo](https://github.com/indkhan/Moneo)** | Personal finance workspace for transaction imports, spending analysis, planning, and AI-assisted interactive tools. | [Live app](https://moneo-mu.vercel.app) |
+| **[AllRandom](https://github.com/indkhan/allrandom)** | Free, open-source desktop toolbox for compressing and converting videos, audio, images, and PDFs, plus merging and splitting files. Processing runs locally on your computer. | [Releases](https://github.com/indkhan/allrandom/releases/latest) |
 | **[Nox](https://github.com/indkhan/Nox)** | Local-first Notion assistant using Codex and MCP, with approval workflows and action tracking. *(Alpha)* | [Source](https://github.com/indkhan/Nox) |
 | **[WorldSim](https://github.com/indkhan/WorldSim)** | Experimental global scenario simulator with synthetic cohorts and branching timelines. *Not a forecasting tool.* | [Live app](https://worldsim-swart.vercel.app) |
 
